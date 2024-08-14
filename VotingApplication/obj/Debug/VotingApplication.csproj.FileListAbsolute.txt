@@ -1,0 +1,11 @@
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\bin\Debug\VotingApplication.exe.config
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\bin\Debug\VotingApplication.exe
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\bin\Debug\VotingApplication.pdb
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.csproj.AssemblyReference.cache
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.Menu.resources
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.Properties.Resources.resources
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.csproj.GenerateResource.cache
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.csproj.CoreCompileInputs.cache
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.exe
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.pdb
+F:\Coding\C#\WinApps\VotingApplication\VotingApplication\obj\Debug\VotingApplication.Vote.resources
